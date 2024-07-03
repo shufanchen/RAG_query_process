@@ -152,4 +152,4 @@ if st.session_state['result'] is not None and not st.session_state['feedback_giv
 
 if st.session_state['feedback_given']:
     st.write("Thank you for your feedback!")
-    st.session_state['result'] = None
+    st.write(f"Bot: {st.session_state['result']}")
