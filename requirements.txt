@@ -1,0 +1,10 @@
+uvicorn==0.30.1
+uuid==1.30
+transformers==4.37.2
+tokenizers==0.15.2
+streamlit==1.28.2
+requests==2.32.2
+fastapi==0.111.0
+pydantic==2.7.4
+torch==2.1.0
+safetensors==0.4.3
